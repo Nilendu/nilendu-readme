@@ -1,13 +1,13 @@
 <b> Things that bring out my best </b>
 
 
-1. 	Data-driven, contextual interactions (e.g., “I have 8 developers, 2 of them are on leave for 4 weeks. I have 82 tickets. PM wants me to ship by July. How can you help me?”, rather than “I need to hire more devs”)
+1. 	Data-driven, contextual interactions - e.g., “I have 8 developers, 2 of them are on leave for 4 weeks. I have 82 tickets. PM wants me to ship by July. How can you help me?”, rather than “I need to hire more devs”
 
-2. 	Fast, Minimalist Software (doing less, delivering on time; Speed of page load/code; Lots of whitespaces like Medium.com)
+2. 	Fast, Minimalist Software  - doing less, delivering on time; Speed of page load/code; Lots of whitespaces like Medium.com
 
-3. 	Great hires – smart and energetic (that we could highly recommend to just about every team/any company, but we – selfishly – won’t!)
+3. 	Great hires – smart and energetic who we could highly recommend to just about every team/any company, but we – selfishly – won’t!
 
-4. 	Constructive Dissent (Please tell me your solution as well; Attack process, not people; Blame less, own more)
+4. 	Constructive Dissent  - Please tell me your solution as well; Attack process, not people; Blame less, own more. Do.
 
 
 <b> Things that bring out my worst </b>
