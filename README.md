@@ -15,7 +15,7 @@
 
 1. 	Repeated Outages, Incidents, Customer Escalations - it is a clear sign that as artists we are "not signing our work". We are just not proud of what we are shipping.
 
-2. 	Cost - I am naturally frugal. Perhaps spend more time than needed on just about any line items with $ in it. e.g., (software) cost/unit of product is the single most important metric I track)
+2. 	Cost - I am naturally frugal. Perhaps spend more time than needed on just about any line items with $ in it. e.g., (software) cost/unit of product is the single most "meta" metric I track.
 
 3. 	Not following through - I am working to be more process-oriented. e.g., I do not always write-down ask from others, and implicitly assume you’re agreeing. When it’s not there in a few days, I lose a bit of trust in you. Entirely my own to fix!
 
